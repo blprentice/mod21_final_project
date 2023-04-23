@@ -4,7 +4,9 @@
 
 My topic is walkability and walkable neighborhoods. I chose this topic because I've lived in a lot of walkable areas throughout my adult life and have become and advocate of walkable neighborhoods and smart growth strategies. What is the definiton of walkable? According to the the EPA's *National Walkability Index Methodology and User Guide*:
 
+
 > The definition of walkability is simple: a walkable place is easy to walk around.
+
 
 That's easy enough; but to get into more detail, walkable neighborhoods:
 
