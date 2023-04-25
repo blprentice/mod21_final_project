@@ -65,14 +65,13 @@ I conducted internet search to locate my data set. I began searching on Data.gov
 * Instantiated a logistic regression model
 * Fit the model using training data
 * Made predictions
-* Validated the model with accuracy score, confusion matrix, and classification report.
+* Validated the model with accuracy score, confusion matrix, and classification report (output below):
 
 ![Model Validation](Model_Validation.png)
 
 
+## Dashboard
 
-
-* Created a Dashboard in Tableau
 [The United States of Walkability](https://public.tableau.com/app/profile/benjamin.prentice/viz/TheUnitedStatesofWalkability/TheUnitedStatesofWalkability)
 
 
