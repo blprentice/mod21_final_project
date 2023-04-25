@@ -46,7 +46,7 @@ I followed the three-phase process presented in Module 4 of the bootcamp:
 
 ### Collect the data
 
-I conducted internet search to locate my data set. I began searching on Data.gov and discovered the National Walkability Index produced by the Environmental Protection Agency [Link](https://catalog.data.gov/dataset/walkability-index). I proceeded to download the data from the relevant website.
+I conducted internet search to locate my data set. I began searching on Data.gov and discovered the [National Walkability Index](https://catalog.data.gov/dataset/walkability-index) produced by the Environmental Protection Agency. I proceeded to download the data from the relevant website.
 
 ### Prepare the data
 
@@ -69,8 +69,12 @@ I conducted internet search to locate my data set. I began searching on Data.gov
 
 ![Model Validation](Model_Validation.png)
 
+
+
+
 * Created a Dashboard in Tableau
 [The United States of Walkability](https://public.tableau.com/app/profile/benjamin.prentice/viz/TheUnitedStatesofWalkability/TheUnitedStatesofWalkability)
+
 
 ## Results
 
